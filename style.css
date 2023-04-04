@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  background: linear-gradient(#191919, #252525);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#clock {
+  background: #ffffff88;
+  color: #252525;
+  padding: 3rem 5rem;
+  border-radius: 20px;
+  font-size: 10vw;
+}
